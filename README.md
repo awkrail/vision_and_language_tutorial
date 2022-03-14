@@ -8,7 +8,7 @@
 - [Chapter 3. 画像を用いた質問応答 (Visual question answering)]()
 - [Chapter 4. キャプションからの画像生成 (Text-to-image generation)]()
 - [Chapter 5. 事前学習モデル (Vision-and-language pretraining)]()
-- [Chapter 6. 言語によるロボット移動 (Vision-and-language navigation)]()
+- [Chapter 6. 言語によるエージェントの移動 (Vision-and-language navigation)]()
 
 # ライセンス
 MIT
